@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080531441438",
+    "project_id": "authentication-e93d5",
+    "storage_bucket": "authentication-e93d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080531441438:android:f8b5c22db23aafb3741b0f",
+        "android_client_info": {
+          "package_name": "com.salma.authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgp20nqBlvGJnVAvAUM4FLeJiL-PoDhhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
